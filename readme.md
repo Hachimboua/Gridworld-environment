@@ -43,9 +43,9 @@ The agent learns to navigate from the start position 🟩 to the goal 🎯 while
 
 | Episode | Description | GIF |
 |----------|--------------|-----|
-| 🏁 Episode 1 | Agent exploring randomly | ![Episode 1](gifs/episode_1.gif) |
-| 🧭 Episode 100 | Agent learning better paths | ![Episode 100](gifs/episode_100.gif) |
-| 🥇 Episode 500 | Agent efficiently reaching goal | ![Episode 500](gifs/episode_500.gif) |
+| 🏁 Episode 1 | Agent exploring randomly | ![Episode 1](figs/gridworld_6x6_ep0.gif) |
+| 🧭 Episode 100 | Agent learning better paths | ![Episode 100](figs/gridworld_6x6_ep250.gif) |
+| 🥇 Episode 500 | Agent efficiently reaching goal | ![Episode 500](figs/gridworld_6x6_ep499.gif) |
 
 *(Replace the paths above with your generated GIFs.)*
 
