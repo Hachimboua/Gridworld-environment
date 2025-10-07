@@ -144,8 +144,8 @@ Q(s, a) \approx \text{expected discounted return for taking action } a \text{ in
 ![Episode 600 GIF](figs/nn_gridworld_ep600.gif)  
 
 - **Heatmaps:**
-  - **State Value Map:** Maximum Q-value per grid cell.
-  - **Best Action Map:** Shows the learned best action (encoded as color).
+![State Value Map & Best Action Map](figs/Figure_5.png)  
+  
 
 ---
 
