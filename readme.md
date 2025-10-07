@@ -54,5 +54,5 @@ The agent learns to navigate from the start position 🟩 to the goal 🎯 while
 ## 📈 Results
 
 ### Smoothed Reward Curve
-*(Auto-generated during training)*
+![Reward Curve Plot](figs/Figure_1.png)
 
