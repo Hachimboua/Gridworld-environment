@@ -47,7 +47,6 @@ The agent learns to navigate from the start position 🟩 to the goal 🎯 while
 | 🧭 Episode 100 | Agent learning better paths | ![Episode 100](figs/gridworld_6x6_ep250.gif) |
 | 🥇 Episode 500 | Agent efficiently reaching goal | ![Episode 500](figs/gridworld_6x6_ep499.gif) |
 
-*(Replace the paths above with your generated GIFs.)*
 
 ---
 
